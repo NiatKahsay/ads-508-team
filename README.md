@@ -214,7 +214,7 @@ Trained using **Amazon SageMaker Autopilot**, then validated and enhanced with *
 
 **Confusion Matrix**
 
-<img src="images/confusion_matrix.png" width="450"/>
+<img src="images/confusion_matrix_custom.png" width="450"/>
 
 JumpStart training confirmed robust convergence and model readiness for deployment with consistent accuracy (0.73) across test splits.
 
