@@ -229,7 +229,7 @@ JumpStart training confirmed robust convergence and model readiness for deployme
 ---
 
 ## 🧾 Repository Structure
-
+```plaintext
 ads-508-team/
 │
 ├── athena_queries/
@@ -267,7 +267,7 @@ ads-508-team/
 │
 ├── requirements.txt
 └── README.md
-
+```
 
 
 📂 View the main notebook here:  
